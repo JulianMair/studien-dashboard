@@ -1,0 +1,353 @@
+{
+  "bezeichnung": "Softwareentwicklung, B.Sc.",
+  "ects_gesamt": 180,
+  "startdatum": "2024-12-01",
+  "ziel_dauer_monate": 36,
+  "ziel_notendurchschnitt": 2.0,
+  "semester": [
+    {
+      "nummer": 1,
+      "bezeichnung": "1. Semester",
+      "module": [
+        "MAT1",
+        "PRG1",
+        "INF1",
+        "WIA1",
+        "ENG1"
+      ]
+    },
+    {
+      "nummer": 2,
+      "bezeichnung": "2. Semester",
+      "module": [
+        "MAT2",
+        "DST1",
+        "BSY1",
+        "WEB1",
+        "REQ1",
+        "AGI1"
+      ]
+    },
+    {
+      "nummer": 3,
+      "bezeichnung": "3. Semester",
+      "module": [
+        "DLBMIUID01-01",
+        "SEC1",
+        "IWNF02",
+        "DLBDSOOFPP01_D",
+        "DBS1",
+        "DSC1",
+        "STA1"
+      ]
+    }
+  ],
+  "module": [
+    {
+      "modulkuerzel": "MAT1",
+      "titel": "Mathematik Grundlagen I",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "BESTANDEN",
+          "termin": "2025-03-14",
+          "note": 2.3,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "PRG1",
+      "titel": "Einführung in die Programmierung mit Python",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Portfolio",
+          "form": "PORTFOLIO",
+          "status": "BESTANDEN",
+          "termin": "2025-02-20",
+          "note": 1.3,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "INF1",
+      "titel": "Grundlagen der Informatik",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "BESTANDEN",
+          "termin": "2025-04-02",
+          "note": 1.7,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "WIA1",
+      "titel": "Wissenschaftliches Arbeiten",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Fallstudie",
+          "form": "FALLSTUDIE",
+          "status": "BESTANDEN",
+          "termin": "2025-05-09",
+          "note": 2.0,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "ENG1",
+      "titel": "Business English",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "BESTANDEN",
+          "termin": "2025-05-23",
+          "note": 2.3,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "MAT2",
+      "titel": "Mathematik Grundlagen II",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "BESTANDEN",
+          "termin": "2025-08-29",
+          "note": 2.3,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "DST1",
+      "titel": "Algorithmen und Datenstrukturen",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "BESTANDEN",
+          "termin": "2025-09-18",
+          "note": 1.7,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "BSY1",
+      "titel": "Betriebssysteme und Rechnernetze",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "BESTANDEN",
+          "termin": "2025-10-10",
+          "note": 2.0,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "WEB1",
+      "titel": "Web Programmierung",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Portfolio",
+          "form": "PORTFOLIO",
+          "status": "BESTANDEN",
+          "termin": "2025-11-07",
+          "note": 1.3,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "REQ1",
+      "titel": "Requirements Engineering",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Fallstudie",
+          "form": "FALLSTUDIE",
+          "status": "BESTANDEN",
+          "termin": "2025-12-05",
+          "note": 1.7,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "AGI1",
+      "titel": "Agiles Projektmanagement",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Fallstudie",
+          "form": "FALLSTUDIE",
+          "status": "BESTANDEN",
+          "termin": "2026-01-16",
+          "note": 2.0,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "DLBMIUID01-01",
+      "titel": "Gestaltung und Ergonomie von User Interfaces",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Fallstudie",
+          "form": "FALLSTUDIE",
+          "status": "BESTANDEN",
+          "termin": "2026-06-30",
+          "note": 1.7,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "SEC1",
+      "titel": "IT Sicherheit",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "BESTANDEN",
+          "termin": "2026-05-08",
+          "note": 2.0,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "IWNF02",
+      "titel": "Projekt Agiles Software Engineering",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Portfolio",
+          "form": "PORTFOLIO",
+          "status": "ANGEMELDET",
+          "termin": "2026-11-06",
+          "note": null,
+          "anzahl_teile": 3,
+          "erledigte_teile": 1,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "DLBDSOOFPP01_D",
+      "titel": "Objektorientierte und funktionale Programmierung mit Python",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Portfolio",
+          "form": "PORTFOLIO",
+          "status": "ANGEMELDET",
+          "termin": "2026-12-15",
+          "note": null,
+          "anzahl_teile": 3,
+          "erledigte_teile": 1,
+          "detailangabe": null
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "DBS1",
+      "titel": "Datenbanken",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "ANGEMELDET",
+          "termin": "2026-11-20",
+          "note": null,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": "90 Min, mit Hilfsmitteln"
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "DSC1",
+      "titel": "Data Science",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Fallstudie",
+          "form": "FALLSTUDIE",
+          "status": "ANGEMELDET",
+          "termin": "2026-10-30",
+          "note": null,
+          "anzahl_teile": 1,
+          "erledigte_teile": 1,
+          "detailangabe": "max. 15 Seiten"
+        }
+      ]
+    },
+    {
+      "modulkuerzel": "STA1",
+      "titel": "Statistik",
+      "ects": 5,
+      "pruefungsleistungen": [
+        {
+          "bezeichnung": "Klausur",
+          "form": "KLAUSUR",
+          "status": "OFFEN",
+          "termin": "2027-02-12",
+          "note": null,
+          "anzahl_teile": 1,
+          "erledigte_teile": 0,
+          "detailangabe": "90 Min, mit Hilfsmitteln"
+        }
+      ]
+    }
+  ]
+}

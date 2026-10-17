@@ -1,0 +1,2 @@
+# Keine externen Pakete erforderlich.
+# Verwendet werden ausschliesslich Module der Python Standardbibliothek.
