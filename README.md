@@ -25,7 +25,7 @@ Externe Pakete werden nicht benötigt.
 ## Starten
 
 ```
-git clone git clone https://github.com/JulianMair/studien-dashboard.git
+git clone https://github.com/JulianMair/studien-dashboard.git
 cd studien-dashboard
 python main.py
 ```
